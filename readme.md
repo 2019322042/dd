@@ -17,5 +17,7 @@
 输入要查询的字符  
 查看结果  
 #实验流程图   
+https://github.com/2019322042/dd/blob/master/%E5%9B%BE%E7%89%871.png   
+#核心代码  
 
 
